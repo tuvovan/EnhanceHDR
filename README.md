@@ -43,6 +43,7 @@ optional arguments: -h, --help                show this help message and exit
 ![INPUT](imgs/Duck.png) | ![OUTPUT](imgs/rs_Duck.png) |
 |:---:|:---:|
 ![INPUT](imgs/test2.jpg) | ![OUTPUT](imgs/rs_test2.jpg) |
+![INPUT](imgs/test1.jpg) | ![OUTPUT](imgs/rs_test1.jpg) |
 | input | output |
 
 ## License
