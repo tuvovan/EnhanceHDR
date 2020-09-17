@@ -1,5 +1,5 @@
 # Enhancing HDR
-The Keras Implementation of the [Deep HDR Imaging via A Non-Local Network](https://ieeexplore.ieee.org/document/8989959) - TIP 2020
+Enhancing low light image by bracketing virtual exposed images
 ## Content
 - [Enhancing HDR](#enhancing-hdr)
 - [Getting Started](#getting-tarted)
