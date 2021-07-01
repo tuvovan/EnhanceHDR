@@ -14,7 +14,6 @@ Enhancing low light image by bracketing virtual exposed images
 ### Prerequisites
 - opencv
 - Python 3.6+
-- Keras 2.3.0
 - numpy
 
 ```python
